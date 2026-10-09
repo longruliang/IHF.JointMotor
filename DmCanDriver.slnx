@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../IHF.JointMotor.WinFrom/IHF.JointMotor.WinFrom.csproj" />
+  <Project Path="DmCanDriver.csproj" />
+</Solution>
